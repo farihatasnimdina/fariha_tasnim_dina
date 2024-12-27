@@ -1,0 +1,104 @@
+.graphic{
+  background-color:white;
+  width: 380px;
+  line-height: 4px;
+  margin: 40px 20px;
+  display: inline-block;
+  border: 1px solid grey;
+  border-radius: 30px;
+}
+body{
+  background-color:#f2f4f8;
+}
+
+img{
+  border-radius: 30px 30px 0 0;
+}
+
+h2{
+  font-size: 16px;
+  color:#df6812;
+}
+
+h3{
+
+  font-size: 23px;
+}
+
+
+h4{
+ font-size: 17px;
+ font-weight: 200;
+}
+
+h5{
+  font-weight: bold;
+  font-size: 20px;
+  color:  #343a40;
+}
+.courseinformation{
+  padding-left:20px ;
+
+}
+
+.courseinformation a{
+  border: 1px solid #df6812;
+  padding: 20px 10px;
+  display: inline-block;
+  margin: 5px 0 10px 200px;
+  color:brown;
+  font-weight: 800;
+  transition: 1s;
+  border-radius: 8px;
+  
+
+}
+.courseinformation a:hover{
+  background-color: #df6812;
+  color: white;
+  cursor: pointer;
+ 
+}
+
+.dekstop1{
+  background-color: white;
+  width:250px;
+  display:inline-block;
+  border: 1px solid white;
+  opacity: 1px;
+}
+
+.productdetails{
+
+padding: 20px;
+}
+
+.pricetag{
+  color:#D51E0B;
+  font-weight: 900;
+  font-size:18px;
+}
+
+.cancelprice{
+  text-decoration: line-through;
+  color: grey;
+  font-weight: 700;
+  margin-left: auto 0 0 75px;
+ 
+}
+
+.mark{
+  border: #6E2594;
+  background-color:#6E2594 ;
+  border:1px solid #6E2594;
+  padding: 5px;
+  display: inline-block;
+  color:white;
+  border-radius:0px 20px 20px 0px;
+  line-height: 150%;
+  font-size: 12px;
+  font-weight: 600;
+  text-decoration: none;
+  margin-top: 8px;
+
+}
